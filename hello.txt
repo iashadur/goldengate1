@@ -1,6 +1,7 @@
 <html>
 <header><title>This is title</title></header>
 <body>
-Hello world ! This is a test file for module 2 demo 1
+Hello world ! This is a test file for module 2 demo 1.
+Now going to do the module 2 demo 2
 </body>
 </html>
